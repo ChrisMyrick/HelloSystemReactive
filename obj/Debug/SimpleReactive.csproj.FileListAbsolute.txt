@@ -1,0 +1,13 @@
+C:\Users\chrism\source\repos\HelloSystem.Reactive\HelloSystemReactive\bin\Debug\HelloSystem.Reactive.exe.config
+C:\Users\chrism\source\repos\HelloSystem.Reactive\HelloSystemReactive\bin\Debug\HelloSystem.Reactive.exe
+C:\Users\chrism\source\repos\HelloSystem.Reactive\HelloSystemReactive\bin\Debug\HelloSystem.Reactive.pdb
+C:\Users\chrism\source\repos\HelloSystem.Reactive\HelloSystemReactive\bin\Debug\System.Reactive.dll
+C:\Users\chrism\source\repos\HelloSystem.Reactive\HelloSystemReactive\bin\Debug\System.Reactive.xml
+C:\Users\chrism\source\repos\HelloSystem.Reactive\HelloSystemReactive\obj\Debug\SImpleReactive.csprojAssemblyReference.cache
+C:\Users\chrism\source\repos\HelloSystem.Reactive\HelloSystemReactive\obj\Debug\HelloSystem.Reactive.FormMain.resources
+C:\Users\chrism\source\repos\HelloSystem.Reactive\HelloSystemReactive\obj\Debug\HelloSystem.Reactive.Properties.Resources.resources
+C:\Users\chrism\source\repos\HelloSystem.Reactive\HelloSystemReactive\obj\Debug\SImpleReactive.csproj.GenerateResource.cache
+C:\Users\chrism\source\repos\HelloSystem.Reactive\HelloSystemReactive\obj\Debug\SImpleReactive.csproj.CoreCompileInputs.cache
+C:\Users\chrism\source\repos\HelloSystem.Reactive\HelloSystemReactive\obj\Debug\SImpleReactive.csproj.CopyComplete
+C:\Users\chrism\source\repos\HelloSystem.Reactive\HelloSystemReactive\obj\Debug\HelloSystem.Reactive.exe
+C:\Users\chrism\source\repos\HelloSystem.Reactive\HelloSystemReactive\obj\Debug\HelloSystem.Reactive.pdb
